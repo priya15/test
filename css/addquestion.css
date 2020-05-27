@@ -1,0 +1,36 @@
+.newques{
+margin: 38% 0%;
+width:100%;
+}
+.question {
+  width:50%;
+  display: inline-block;
+  margin-top:10px;
+  margin-right:5px;
+}
+.questype {
+  width:35%;
+  display: inline-block;
+  margin-top:10px;
+  margin-right: 10px;
+}
+input.canclebtn.btn.btn-danger{
+	width:12%;
+	margin-top:0px;
+}
+input.answer_1.form-control.anstext{
+	margin-top: 10px;
+	display:inline-block;
+	width:100%;
+	margin-bottom:10px;
+
+}
+.anstext{
+ 	margin-top: 10px;
+	display:inline-block;
+	width:100%;
+	margin-bottom:10px;	
+}
+.subquesval{
+	margin-top:10px;
+}
